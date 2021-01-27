@@ -14,23 +14,10 @@ def accept_text(text):
   for text in a:
     print(text)
     print('\n')
+    
+    
+    
+#test
 b = accept_text("In typography, line length is the width of a block of typeset text, usually measured in units of length like inches or points or in characters per line in which case it is a measure. A block of text or paragraph has a maximum line length that fits a determined design. If the lines are too short then the text becomes disjointed; if they are too long the content loses rhythm as the reader searches for the start of each line")
 print(b)
-
-
-
-
-
-
-
-
-
-
-
-
-
-a = 'My name is Russ'.lower()
-a = a.split()
-a.sort(reverse=True)
-print(a)
 
